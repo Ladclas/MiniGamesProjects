@@ -1,9 +1,9 @@
 # MiniGamesProjects
 
-Projet : sur Game Maker (ou ptet unity)
-  Faire un mini game avec chaque je jeux que je créerais.
-    -Faire une interface graphique, avec des images créer de A à Z
-      -Sur du pixel Art
+Projet : sur Game Maker (ou ptet unity)  
+  Faire un mini game avec chaque je jeux que je créerais.  
+    -Faire une interface graphique, avec des images créer de A à Z  
+      -Sur du pixel Art  
     -2 menu,le 1er avec play ou quit, si on fait entré sur play on a un choix de plusieurs jeux.
     -peux lancer des excutable en fonction d'un choix de l'utilisateur
  
