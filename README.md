@@ -6,10 +6,10 @@ Projet : sur Game Maker les jeux, tkinter pour le menu des jeux.
       -Sur du pixel Art  
     -2 menu,le 1er avec play ou quit, si on fait entré sur play on a un choix de plusieurs jeux.  
     -peux lancer des excutable en fonction d'un choix de l'utilisateur  
- Fonction qui appelle l'image du 1 fond
- Fonction qui supprime le 1er fond laissant apparaitre le 2eme
- Fonction qui gère les boutons du claviers
- Fonction qui contient une liste de dictionnaire pour lancer les jeux
+ Fonction qui appelle l'image du 1 fond  
+ Fonction qui supprime le 1er fond laissant apparaitre le 2eme  
+ Fonction qui gère les boutons du claviers  
+ Fonction qui contient une liste de dictionnaire pour lancer les jeux  
    #
    #
    #
