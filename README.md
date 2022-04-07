@@ -1,21 +1,33 @@
 # MiniGamesProjects
 
 Projet : sur Game Maker les jeux, tkinter pour le menu des jeux.  
-  Faire un mini game avec chaque je jeux que je créerais.  
+  Faire un mini game avec chaque jeux que je créerais.  
     -Faire une interface graphique, avec des images créer   
       -Sur du pixel Art  
     -2 menu,le 1er avec play ou quit, si on fait entré sur play on a un choix de plusieurs jeux.  
     -peux lancer des excutable en fonction d'un choix de l'utilisateur  
-   
-   
-   
-   
-   
-   
-  
-  
-   
- (Jeux :
+ Fonction qui appelle l'image du 1 fond
+ Fonction qui supprime le 1er fond laissant apparaitre le 2eme
+ Fonction qui gère les boutons du claviers
+ Fonction qui contient une liste de dictionnaire pour lancer les jeux
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   #
+   (Jeux :
   Casse brique:
     le but du jeux est une balle rebondissant dans toute un salle...
     
