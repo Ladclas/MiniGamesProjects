@@ -18,13 +18,13 @@ Mon Programme est capable d'ouvrir une interface a 2 bouton et lorsqu'on clique 
  Fonction pour la déco des boutons, laisser la souris dessus change la couleur
  Fonction qui permet de cliquer sur du textes et ouvrir un exécutable
  
-## Jour 1: 
+# Jour 1: 
  Test avec Gamemaker, j'ai chercher durant des heures a ouvrir un exécutable mais impossible, Gamemaker n'est pas fait pour ça.
-##Jour 2:
+# Jour 2:
 Test avec TkInter, commencement du code mais je me rend compte a quel point c'est limité je commence donc a me renseigner pour du pygame.
-##Jour 3:
+# Jour 3:
 Pas d'avancement sur le projet je regarde pendant des heures des vidéos pour en apprendre un peu plus sur pygame.
-##Jour 4: 
+# Jour 4: 
 Commencement d'une vrai interface, premier bouton créer et le bouton quitter est fait.
 
 
