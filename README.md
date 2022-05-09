@@ -28,5 +28,5 @@ Pas d'avancement sur le projet je regarde pendant des heures des vidéos pour en
 Commencement d'une vrai interface, premier bouton créer et le bouton quitter est fait.
 # Jour 5:
 Bouton Start a été fait mais pas fonctionnel, préparation du dictionnaire pour ouvrir les jeux, j'ai déséspérement chercher a mettre a un fond, et ai finalement réussi, cadrage des boutons, cherche comment tout supprimer puis recréer les dessin lorsque l'on clique sur start pour afficher uniquement les jeux et pas les anciens boutons.
-
-    
+# Jour 6:
+Je me suis débrouiller pour réussir a faire quelque chose avec le bouton start, il reçoit l'information. J'essaie de trouver une alternative à effacer les images, j'opte pour tout couvrir avec un plus grand carré qui cache la page précédente où les listes de jeux apparaîtrons.
